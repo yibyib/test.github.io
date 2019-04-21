@@ -5,9 +5,9 @@
   <subtitle>风萧萧兮易水寒、壮士一去兮不复还</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://yibyib.github.io/"/>
   <updated>2019-04-21T13:42:51.434Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://yibyib.github.io/</id>
   
   <author>
     <name>yibyib</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>利用hexo和github搭建静态博客</title>
-    <link href="http://yoursite.com/2019/04/21/%E5%88%A9%E7%94%A8hexo%E5%92%8Cgithub%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/"/>
-    <id>http://yoursite.com/2019/04/21/利用hexo和github搭建静态博客/</id>
+    <link href="http://yibyib.github.io/2019/04/21/%E5%88%A9%E7%94%A8hexo%E5%92%8Cgithub%E6%90%AD%E5%BB%BA%E9%9D%99%E6%80%81%E5%8D%9A%E5%AE%A2/"/>
+    <id>http://yibyib.github.io/2019/04/21/利用hexo和github搭建静态博客/</id>
     <published>2019-04-21T13:39:51.000Z</published>
     <updated>2019-04-21T13:42:51.434Z</updated>
     
@@ -35,16 +35,16 @@
     </summary>
     
     
-      <category term="hexo" scheme="http://yoursite.com/tags/hexo/"/>
+      <category term="hexo" scheme="http://yibyib.github.io/tags/hexo/"/>
     
-      <category term="github" scheme="http://yoursite.com/tags/github/"/>
+      <category term="github" scheme="http://yibyib.github.io/tags/github/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2019/04/21/hello-world/"/>
-    <id>http://yoursite.com/2019/04/21/hello-world/</id>
+    <link href="http://yibyib.github.io/2019/04/21/hello-world/"/>
+    <id>http://yibyib.github.io/2019/04/21/hello-world/</id>
     <published>2019-04-21T09:25:38.892Z</published>
     <updated>2019-04-21T09:25:38.892Z</updated>
     
